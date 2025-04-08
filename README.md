@@ -8,7 +8,6 @@
 <p></p>
 
 - Studying Systems Analysis and Development at [UTFPR](https://www.utfpr.edu.br/)
-- Quality Assurance intern at [Quality Digital](https://qualitydigital.global/)
 - Working on the Americanas project
 - Cornélio Procópio, PR - Brazil
 
