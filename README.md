@@ -8,7 +8,7 @@
 <p></p>
 
 - Studying Systems Analysis and Development at [UTFPR](https://www.utfpr.edu.br/)
-- Working on the Americanas project
+- Working on the Midea and Application Support project
 - Cornélio Procópio, PR - Brazil
 
 
